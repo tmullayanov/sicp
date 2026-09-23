@@ -1,0 +1,5 @@
+chapter-01/1.15.md
+  h_7f3a0a55e2b722 1-11,20-21,23-53
+  s_da0488f1ca0d5f::t_364a67e9ecd941 12-19,22
+---
+{"base_commit_sha": "9f57e5ef458dd993700595d0cba263640f0c03ed", "branch": "master", "git_ai_version": "1.4.1.dev0", "humans": {"h_7f3a0a55e2b722": {"author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}, "lost": {"discard_ai": 0, "rework_ai": 3}, "prompts": {}, "schema_version": "authorship/3.0.0", "sessions": {"s_da0488f1ca0d5f": {"agent_id": {"id": "vscode:GitHub Copilot Chat.log", "model": "", "tool": "vscode"}, "custom_attributes": {"confidence": "0.39", "source": "watcher"}, "human_author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}}
