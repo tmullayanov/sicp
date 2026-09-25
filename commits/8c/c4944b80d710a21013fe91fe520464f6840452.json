@@ -1,0 +1,14 @@
+{
+ "ai": 0,
+ "branch": "master",
+ "discard": 0,
+ "docs": {
+  "ai": 0,
+  "human": 0
+ },
+ "guessed": 0,
+ "human": 4,
+ "model": "",
+ "rework": 0,
+ "tokens": 0
+}
