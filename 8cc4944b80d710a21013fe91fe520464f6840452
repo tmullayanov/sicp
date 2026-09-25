@@ -1,0 +1,4 @@
+chapter-01/1.17-1.18.rkt
+  h_7f3a0a55e2b722 16-17,24-25
+---
+{"base_commit_sha": "8cc4944b80d710a21013fe91fe520464f6840452", "branch": "master", "git_ai_version": "1.4.1.dev0", "humans": {"h_7f3a0a55e2b722": {"author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}, "prompts": {}, "schema_version": "authorship/3.0.0"}
