@@ -1,0 +1,22 @@
+chapter-01/1.19.rkt
+  s_da0488f1ca0d5f::t_d962d9bbfe348c 1-5,8-9
+  h_7f3a0a55e2b722 6-7,10-15
+  s_da0488f1ca0d5f::t_52cd38eb9dd9ef 16-21
+chapter-01/1.20.md
+  h_7f3a0a55e2b722 1-2,7-8,11,22-51,53-55,60-64,66-67
+  s_da0488f1ca0d5f::t_db8f78c2f6397c 3-6,9-10,12-16,52
+  s_da0488f1ca0d5f::t_600d0363b44278 17-21
+  s_da0488f1ca0d5f::t_76e8c8347798f9 56-59,65
+chapter-01/1.22.rkt
+  s_da0488f1ca0d5f::t_cdb848f03a5a86 1-14,17-19
+  h_7f3a0a55e2b722 15,20-23,29-31,33,39,43,45,48-52
+  s_da0488f1ca0d5f::t_7d5d4d7293d8f2 16,27-28,32,38,40-42,44,46-47,53-57
+  s_da0488f1ca0d5f::t_9b7f54ab41723f 24-26
+  s_da0488f1ca0d5f::t_6e019b6de5867e 34-37
+chapter-01/prime.rkt
+  h_7f3a0a55e2b722 1-2,13-20,27,31,33-38,41-42
+  s_da0488f1ca0d5f::t_09f092e711b0fc 3-12
+  s_da0488f1ca0d5f::t_a5a53cd3d980c6 21-26,28-30,32,39-40
+  s_da0488f1ca0d5f::t_90a96f028e4faf 43-51
+---
+{"base_commit_sha": "2c61ef4abd66b734ba61b194efbab7e4c959dfa3", "branch": "master", "git_ai_version": "1.4.1.dev0", "humans": {"h_7f3a0a55e2b722": {"author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}, "lost": {"discard_ai": 0, "rework_ai": 18}, "prompts": {}, "schema_version": "authorship/3.0.0", "sessions": {"s_da0488f1ca0d5f": {"agent_id": {"id": "vscode:GitHub Copilot Chat.log", "model": "", "tool": "vscode"}, "custom_attributes": {"confidence": "0.39", "source": "watcher"}, "human_author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}}
