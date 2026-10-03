@@ -6,7 +6,14 @@
 (define (find-divisor n test-divisor)
   (cond ((> test-divisor n) n)
         ((divides? test-divisor n) test-divisor)
-        (else (find-divisor n (+ 1 test-divisor)))))
+        (else (find-divisor n (next-candidate test-divisor)))))
+
+
+; 1.23
+(define (next-candidate test-divisor)
+  (if (= 2 test-divisor)
+      3
+      (+ 2 test-divisor)))
 
 (define (divides? a b)
   (= 0 (remainder b a)))
