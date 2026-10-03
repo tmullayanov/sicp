@@ -1,0 +1,7 @@
+chapter-01/notes.md
+  h_7f3a0a55e2b722 21-26
+chapter-01/prime.rkt
+  h_7f3a0a55e2b722 9
+  s_18c3be7fbfa386::t_1555529d1d9ff6 10-16
+---
+{"base_commit_sha": "cf1a25d82d6ac858c70bc14eaa4c64b3d7d05903", "branch": "master", "git_ai_version": "1.4.1.dev0", "humans": {"h_7f3a0a55e2b722": {"author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}, "prompts": {}, "schema_version": "authorship/3.0.0", "sessions": {"s_18c3be7fbfa386": {"agent_id": {"id": "vscode:pid20948", "model": "", "tool": "vscode"}, "custom_attributes": {"confidence": "0.26", "source": "watcher"}, "human_author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}}
