@@ -1,0 +1,14 @@
+{
+ "ai": 35,
+ "branch": "master",
+ "discard": 0,
+ "docs": {
+  "ai": 19,
+  "human": 1
+ },
+ "guessed": 35,
+ "human": 31,
+ "model": "без модели (vscode)",
+ "rework": 6,
+ "tokens": 0
+}
