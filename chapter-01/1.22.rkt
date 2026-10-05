@@ -37,7 +37,7 @@
         (- end start)
         #f)))
 
-(define (find-three-primes-with-times start end)
+(define (find-three-primes-with-times fn start end)
   (define (f a b times)
     (define (analyze n)
       (define (mark-and-go-forward x time)
@@ -46,7 +46,7 @@
         (display time)
         (newline)
         (f (+ n 2) end (- times 1)))
-      (let ((est-time (apply-with-time prime? n)))
+      (let ((est-time (apply-with-time fn n)))
         (if est-time
             (mark-and-go-forward n est-time)
             (f (+ n 1) end times))))

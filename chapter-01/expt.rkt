@@ -23,3 +23,6 @@
 
 (define (square x) (* x x))
 ; (define (even? x) (= (remainder n 2) 0)) <-- is in stdlib.
+
+
+(provide fast-expt square expt)

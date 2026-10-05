@@ -25,10 +25,11 @@
 
 (define (expmod base exp m)
   (cond ((= exp 0) 1)
-        ((even? exp
-                (remainder (square (expmod base (/ exp 2) m))
-                           m)))
-        (else (remainder (* base (expmod base (- exp 1) m))))))
+        ((even? exp)
+         (remainder (square (expmod base (/ exp 2) m)) 
+                    m))
+        (else (remainder (* base (expmod base (- exp 1) m))
+                         m))))
 
 (define (square x) (* x x))
 
@@ -46,7 +47,7 @@
 
 
 
-(provide prime? fast-prime?)
+(provide prime? fast-prime? expmod)
 
 #|
 "chapter-01\\prime.rkt"> (smallest-divisor 199)                                                                      
