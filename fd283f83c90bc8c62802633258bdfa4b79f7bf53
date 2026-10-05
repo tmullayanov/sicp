@@ -1,0 +1,16 @@
+chapter-01/1.22.rkt
+  h_7f3a0a55e2b722 40,49
+chapter-01/1.25.rkt
+  h_7f3a0a55e2b722 1-13,16-19,33-34
+  s_da0488f1ca0d5f::t_b16c10e3d190fb 14-15,20
+  s_da0488f1ca0d5f::t_07c2ca30ebb5d8 21-32,35
+chapter-01/expt.rkt
+  h_7f3a0a55e2b722 26-28
+chapter-01/notes.md
+  s_da0488f1ca0d5f::t_5f8a7c5a494f3d 27-33
+  s_da0488f1ca0d5f::t_be9f51013947f0 34-39,41-46
+  h_7f3a0a55e2b722 40
+chapter-01/prime.rkt
+  h_7f3a0a55e2b722 28-32,50
+---
+{"base_commit_sha": "fd283f83c90bc8c62802633258bdfa4b79f7bf53", "branch": "master", "git_ai_version": "1.4.1.dev0", "humans": {"h_7f3a0a55e2b722": {"author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}, "lost": {"discard_ai": 0, "rework_ai": 6}, "prompts": {}, "schema_version": "authorship/3.0.0", "sessions": {"s_da0488f1ca0d5f": {"agent_id": {"id": "vscode:GitHub Copilot Chat.log", "model": "", "tool": "vscode"}, "custom_attributes": {"confidence": "0.39", "source": "watcher"}, "human_author": "Timur Mullayanov <tmullayanov@users.noreply.github.com>"}}}
