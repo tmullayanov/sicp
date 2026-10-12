@@ -47,7 +47,7 @@
 
 
 
-(provide prime? fast-prime? expmod)
+(provide prime? fast-prime? expmod fermat-test)
 
 #|
 "chapter-01\\prime.rkt"> (smallest-divisor 199)                                                                      
