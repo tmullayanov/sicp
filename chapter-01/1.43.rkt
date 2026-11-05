@@ -22,3 +22,5 @@
 
 (define (test)
   (= 2 ((repeated-inner inc 2) 0)))
+
+(provide repeated)
